@@ -1,0 +1,9 @@
+langchain
+openai
+requests
+gtts
+pydub
+SpeechRecognition
+telebot
+tiktoken
+faiss-cpu
